@@ -1,6 +1,12 @@
 # 💫 About Me:
-Building AI tools, developer utilities & digital products at VoidForge Studios. Turning ideas into practical software through AI, automation, and development.
+⚡ VoidForge Studios | Independent Technology Lab
 
+🤖 AI & Intelligent Systems
+⚙️ Software Engineering & Automation
+🎮 Game Development & Interactive Worlds
+🧩 Developer Tools & Digital Products
+
+🚀 Experiment. Engineer. Build Beyond Ordinary.
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://bsky.app/profile/howtoguru.xyz) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/6KX6pGm2m) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/voidforge489/?hl=en) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@VoidForge) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:voidforge489@gmail.com) 
